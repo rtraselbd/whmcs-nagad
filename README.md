@@ -20,4 +20,4 @@ whmcs path/modules/gateways/callback
 
 Thank you.
 
-For any support contact me at [Facebook] (https://facebook.com/rtraselbd)
+For any support contact me at [Facebook](https://facebook.com/rtraselbd)
